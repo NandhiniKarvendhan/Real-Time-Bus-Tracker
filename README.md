@@ -6,6 +6,8 @@ an API and use it to animate a map. I implemented a function to update
 MBTA Route 1 buses geolocation in real time every 15 seconds by adding
 an animated marker on the map with bus id to highlight the bus routes.
 
+[Demo](https://nandhinikarvendhan.github.io/Real-Time-Bus-Tracker/)
+
 ## How to run
 
 1. Download or clone this repository.
