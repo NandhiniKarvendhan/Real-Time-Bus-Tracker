@@ -16,6 +16,11 @@ an animated marker on the map with bus id to highlight the bus routes.
 
 3. Every 15 seconds bus geolocation is highlighted by marker.
 
+## Technologies
+1. HTML
+2. CSS
+3. JavaScript
+   
 ## Roadmap of future improvements:
 
 Changing the color of the marker for each bus.
